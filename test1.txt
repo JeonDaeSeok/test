@@ -1,8 +1,5 @@
 test 颇老
-<<<<<<< HEAD
 test 颇老
 test 颇老
 test 颇老
-=======
->>>>>>> parent of b98bf42... 霛检澑3
 test 颇老
